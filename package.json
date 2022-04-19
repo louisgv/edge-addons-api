@@ -1,5 +1,5 @@
 {
-  "name": "@plasmo-corp/ewu",
+  "name": "edge-addons-api",
   "version": "0.6.0",
   "description": "Microsoft Edge Addons API for Node.js",
   "exports": "./dist/index.js",

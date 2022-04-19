@@ -1,6 +1,6 @@
 # Microsoft Edge Addons API for NodeJS
 
-A tiny but powerful module from [plasmo](https://www.plasmo.com/) to publish browser add-ons to the [Microsoft Edge Web Store](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home).
+A tiny but powerful module from [plasmo](https://www.plasmo.com/) to publish browser add-ons to the [Microsoft Edge Web Store](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home). Alias of [`@plasmo-corp/ewu`](https://www.npmjs.com/package/@plasmo-corp/ewu).
 
 This module uses [got](https://github.com/sindresorhus/got) to upload, check status, and submit an extension to the Microsoft Edge Webstore, using the [Microsoft Edge Add-ons API](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/api/using-addons-api).
 
